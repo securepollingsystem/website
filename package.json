@@ -1,0 +1,19 @@
+{
+  "name": "securepollingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/securepollingsystem/website.git"
+  },
+  "author": "Karissa McKelvey <karissa@karissamck.com> (http://karissamck.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/securepollingsystem/website/issues"
+  },
+  "homepage": "https://github.com/securepollingsystem/website#readme"
+}
